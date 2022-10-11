@@ -1,2 +1,2 @@
-# webgl
+# WebGL
 WebGL Fluid Simulation
