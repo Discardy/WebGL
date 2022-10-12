@@ -1,6 +1,6 @@
 # WebGL Fluid Simulation
 
-[Live Demo](https://webgl.noice.app)
+[Live Demo](https://discardy.github.io/WebGL/)
 
 <img src="screenshot.jpg?raw=true" width="880">
 
